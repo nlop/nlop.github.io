@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg version="1.1" viewBox="0 0 98.745 75.337" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-55.081 -111.46)">
+  <rect transform="translate(55.081,111.46)" x="6.7727" y="10.141" width="72.237" height="49.917" style="fill-rule:evenodd;fill: #0143FE;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.11547;stroke:#333"/>
+  <path d="m61.5 117.03c-1.5583 0-2.816 1.2544-2.8127 2.8128l0.11339 53.691c0.0033 1.5583 1.2544 2.8128 2.8127 2.8128h72.856c1.5583 0 2.8166-1.2544 2.8133-2.8128l-0.11339-53.691c-3e-3 -1.5583-1.2549-2.8128-2.8133-2.8128zm2.5991 4.7994h67.967c1.4496 0 1.8674 1.1668 1.8711 2.6164l0.11339 44.391c4e-3 1.4496-0.469 2.6169-1.9186 2.6169h-67.775c-1.4496 0-2.103-1.1673-2.1067-2.6169l-0.11339-44.391c-0.0037-1.4496 0.51337-2.6164 1.9629-2.6164z" style="fill-rule:evenodd;fill:#999;paint-order:fill markers stroke"/>
+  <path d="m134.05 186.07 17.381-9.2056m-88.358 5.5542 0.0333 2.5377s0.27625 1.3051 1.5559 1.3327c1.2796 0.0276 68.655 0 68.655 0s1.3953-0.0704 1.4037-1.3951c8e-3 -1.3247-0.0333-2.5244-0.0333-2.5244m4.0597-70.145 13.881 3.7725c0.48371 0.13097 0.57549 0.13393 0.60989 0.60485l0.0581 58.633c0.0632 0.76571 0.0417 0.83503-0.62246 1.112l-6.795 2.8335-7.0421 2.9292m-80.117-70.146h78.764c1.7382 0 3.1375 1.3993 3.1375 3.1375v64.175c0 1.7382-1.3993 3.1375-3.1375 3.1375h-78.764c-1.7382 0-3.1375-1.3993-3.1375-3.1375v-64.175c0-1.7382 1.3993-3.1375 3.1375-3.1375z" style="fill:none;stroke:#000"/>
+  <path d="m61.1 182.52v-3.801l4.9779 3e-3 0.01688 3.6139" style="fill:none;stroke-width:.5;stroke:#000"/>
+  <text transform="matrix(.26458 0 0 .26458 -5.5583 51.378)" style="font-family:Roboto;font-size:13.333px;line-height:1.25;shape-inside:url(#rect10305);white-space:pre" xml:space="preserve"/>
+  <rect x="118.12" y="178.12" width="15.972" height="2.1682" ry="0" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5;stroke:#000"/>
+ </g>
+ <foreignObject x="6.7727" y="10.141" width="72.237" height="49.917" >
+    <div xmlns="http://www.w3.org/1999/xhtml" id="term-body" style="text-align: justify;font-size: 6px;text-justify: inter-word;height: 100%;width: 100%;color:#48BEF6;">
+       <p style="padding: 0.1rem">Hello world!</p>
+    </div>
+ </foreignObject>
+</svg>
